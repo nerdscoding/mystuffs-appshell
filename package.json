@@ -1,0 +1,23 @@
+{
+  "name": "mystuffs-appshell",
+  "version": "1.0.0",
+  "description": "The application shell of mystuffs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nerdscoding/mystuffs-appshell.git"
+  },
+  "author": "xiawenlan1984@gmail.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/nerdscoding/mystuffs-appshell/issues"
+  },
+  "homepage": "https://github.com/nerdscoding/mystuffs-appshell#readme",
+  "volta": {
+    "node": "16.14.0",
+    "npm": "8.5.4"
+  }
+}
